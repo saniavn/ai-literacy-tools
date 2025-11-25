@@ -21,7 +21,8 @@ A simulation of the **exploration–exploitation trade-off** using an epsilon-gr
 Students detect, edit, and reason about real vs. manipulated media, and engage in discussions about ethical scenarios regarding AI-generated content.
 
 
-* **Code & Demo:** 
+* **Code:** [https://github.com/saniavn/SpotAI](https://github.com/saniavn/SpotAI)
+
 
 
 ## Citation
